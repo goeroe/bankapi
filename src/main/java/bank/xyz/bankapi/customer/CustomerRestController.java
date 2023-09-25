@@ -1,4 +1,4 @@
-package bank.xyz.bankapi;
+package bank.xyz.bankapi.customer;
 
 import bank.xyz.bankapi.customer.Customer;
 import bank.xyz.bankapi.customer.CustomerRepository;

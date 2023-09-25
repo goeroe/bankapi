@@ -1,10 +1,10 @@
-package bank.xyz.bankapi;
+package bank.xyz.bankapi.utils;
 
 import org.apache.commons.lang3.RandomStringUtils;
 import org.apache.commons.text.RandomStringGenerator;
+import org.passay.CharacterData;
 import org.passay.CharacterRule;
 import org.passay.EnglishCharacterData;
-import org.passay.CharacterData;
 import org.passay.PasswordGenerator;
 
 import java.security.SecureRandom;

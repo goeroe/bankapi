@@ -1,14 +1,11 @@
-package bank.xyz.bankapi;
+package bank.xyz.bankapi.customer;
 
-import bank.xyz.bankapi.RandomPasswordGenerator;
+import bank.xyz.bankapi.utils.RandomPasswordGenerator;
 import jakarta.persistence.Entity;
-import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.Id;
-import nl.garvelink.iban.IBAN;
 
 import java.time.LocalDate;
 import java.time.Period;
-import java.util.Date;
 
 @Entity
 public class Customer {

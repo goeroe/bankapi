@@ -1,4 +1,4 @@
-package bank.xyz.bankapi;
+package bank.xyz.bankapi.customer;
 
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.stereotype.Component;
